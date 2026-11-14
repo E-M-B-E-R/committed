@@ -12,6 +12,8 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 <img src="assets/gameplay.png" alt="Committed gameplay showing a level 5 baby cat monster and its experience progress." width="400">
 
+Look at the releases for latest release.
+
 ## Copyright
 
 Copyright (c) 2026 E-M-B-E-R.
