@@ -12,7 +12,7 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 <img src="assets/gameplay.png" alt="Committed gameplay showing a level 5 baby cat monster and its experience progress." width="400">
 
-Look at the releases for latest release.
+[Look at the releases for V1.0.0.](https://github.com/E-M-B-E-R/committed/releases/tag/v1.0.0)
 
 ## Copyright
 
