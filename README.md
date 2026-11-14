@@ -4,7 +4,12 @@ Committed is a desktop virtual-pet game that turns your GitHub repositories into
 
 Raise a collection of monsters, discover new forms, and unlock more egg designs along the way. Committed gives your coding progress a playful companion, making each contribution part of your monster's journey.
 
-![Committed gameplay showing a level 5 baby cat monster and its experience progress.](assets/gameplay.png)
+## Features
+
+- **Unlockable eggs** - Unlock new egg designs as you progress.
+- **Multiple color themes** - Choose a look that suits your style.
+
+<img src="assets/gameplay.png" alt="Committed gameplay showing a level 5 baby cat monster and its experience progress." width="400">
 
 ## Copyright
 
