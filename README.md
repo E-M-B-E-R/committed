@@ -8,7 +8,7 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 - **Unlockable eggs** - Unlock new egg designs as you progress.
 - **Multiple color themes** - Choose a look that suits your style.
-- **Sacrifice monsters - Gives you points to unlock more monsters. Resets your progress on a repo.
+- **Sacrifice monsters** - Gives you points to unlock more monsters. Resets your progress on a repo.
 
 <img src="assets/gameplay.png" alt="Committed gameplay showing a level 5 baby cat monster and its experience progress." width="400">
 
