@@ -1,4 +1,5 @@
 # Committed
+[<img width="122" height="25" alt="support_me_on_kofi_red" src="https://github.com/user-attachments/assets/b1cc34fd-a138-4909-b45d-f5ee03a344f9" />](https://ko-fi.com/committed)
 
 Committed is a desktop virtual-pet game that turns your GitHub repositories into growing monsters. Choose a repository, pick an egg, and watch your companion hatch and evolve as your GitHub activity earns it experience.
 
@@ -6,7 +7,7 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 ## Features
 
-- **Unlockable eggs** - Unlock new egg designs as you progress.
+- **Unlock-able eggs** - Unlock new egg designs as you progress.
 - **Multiple color themes** - Choose a look that suits your style.
 - **Sacrifice monsters** - Gives you points to unlock more monsters. Resets your progress on a repo.
 
