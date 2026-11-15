@@ -16,7 +16,8 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 ## AI Disclaimer
 This project uses AI in the following ways:
-* To generate code and fix defects.
+* To generate code, fix defects, and code reviews.
+* Generate PR descriptions and sometimes release notes.
 * To generate pixel art and pixel art animations.
 * To generate monster designs where there are gaps.
 
