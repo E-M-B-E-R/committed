@@ -14,6 +14,16 @@ Raise a collection of monsters, discover new forms, and unlock more egg designs 
 
 [Look here for latest release.](https://github.com/E-M-B-E-R/committed/releases)
 
+## AI Disclaimer
+This project uses AI in the following ways:
+* To generate code and fix defects.
+* To generate pixel art and pixel art animations.
+* To generate monster designs where there are gaps.
+
+Each monster is based off a real illustration made by an artist (me) and converted into pixel art using AI and animated using AI tools. Eggs, baby forms, and adult forms may or may not be AI generated, but are based off of illustrations and monster designs painted by the artist. Backgrounds are purely AI generated.
+
+The goal is to migrate off of as much AI art as possible as the game development progresses, but conversion into pixel art and animation will likely continue to be AI generated.
+
 ## Copyright
 
 Copyright (c) 2026 E-M-B-E-R.
